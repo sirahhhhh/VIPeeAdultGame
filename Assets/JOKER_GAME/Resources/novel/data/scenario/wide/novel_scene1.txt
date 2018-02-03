@@ -1,0 +1,9 @@
+@call file=wide/libs/utils
+
+;メッセージ表示
+;[showmessage]
+;[call file=wide/system target="*system_setting_buttons"]
+
+[playbgm wait=false time=1 storage="music"]
+
+[scene file="Main"]
